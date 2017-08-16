@@ -3,7 +3,7 @@
 	font-size: 20px;
     left: 150px;
     right: 100px;
-    background-color:;
+    padding-top: 100px; 
 }
 
 
@@ -11,3 +11,4 @@
 .navbar{
 	margin-bottom: 0;
 }
+
