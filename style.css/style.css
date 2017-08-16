@@ -1,3 +1,13 @@
-h1 {
-	color:red;
+.body {
+	color: darkblue;
+	font-size: 20px;
+    left: 150px;
+    right: 100px;
+    background-color:;
+}
+
+
+
+.navbar{
+	margin-bottom: 0;
 }
