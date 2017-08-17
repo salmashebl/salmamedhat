@@ -1,9 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/custom.ttf);
+}
+
 .body {
 	color: darkblue;
 	font-size: 20px;
     left: 150px;
     right: 100px;
-    padding-top: 100px; 
+    padding-top: 3px; 
     background-color:ivory;
 }
 
@@ -42,17 +47,39 @@ body{
 		padding-left: 100px;
 }
 .S{
-	font-family:cursive;
+	font-family:myFirstFont;
 	font-size:0.2in;
 	margin-top: 20px;
-	margin-left: 10px;
+	margin-left: 20px;
     color:black;
 }
 .m{
 	font-size:0.2in;
 	margin-top: 20px;
-	margin-left: 10px;
+	margin-left: 20px;
     color:black;
-    font-family:cursive;
+    font-family:myFirstFont;
 
+}
+#g{
+	margin-top: 60px;
+	font-size: 30px;
+	margin-right: 600px;
+	color: white
+}
+#about {
+background-image: url("../images/background 6.jpg");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+width: 100%;
+height: 565px;
+}
+#c {
+	margin-top: 40px;
+}
+.r {
+	margin-top: 50px
+}
+#e {
+	margin-top: 50px;
 }
